@@ -1,0 +1,20 @@
+Layout of Contract:
+varsion
+imports
+interfaces, libraries, contracts
+errors
+Type declarations
+State variables
+Events
+Modifiers
+Functions
+
+Layout of Fucntions:
+constructor
+receive Function
+fallback function
+external
+public
+internal
+private
+view & pure functions
